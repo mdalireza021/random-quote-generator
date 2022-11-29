@@ -1,6 +1,10 @@
-# Getting Started with Create React App
+# Random Quote Generator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Build random quote generator web app using React.
+
+## Authors
+
+[Reza Rahman](https://github.com/rahmanreza646)
 
 ## Available Scripts
 
